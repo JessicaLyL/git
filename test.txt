@@ -1,4 +1,3 @@
 hello, git~
 hello, world!
 hello,coding.
-I love coding.
